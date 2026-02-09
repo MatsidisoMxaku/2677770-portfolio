@@ -1,4 +1,3 @@
-I learnt how to create and clone a repository .
-Which led to creating files , that i had to stage and commit.
-We cant commit without staging first . 
-We have a main branch and we can create new branches which we later merge to the main branch.
+I have learnt how to create a repository and how to clone it . 
+Then how to create files which we will stage and later commit .
+Lastly how to create a branches and link them to the main branch and then pushing the files to Github.
